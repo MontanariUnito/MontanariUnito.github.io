@@ -1,0 +1,12 @@
+*.log
+*.tgz
+.temp
+.vite_opt_cache
+.vscode
+dist
+cache
+temp
+examples-temp
+node_modules
+pnpm-global
+*.timestamp-*.mjs
