@@ -1,6 +1,6 @@
 # Studenti Montanari
 
-[StudentiMontanari](https://StudentiMontanari.github.io/) è un sito creato dagli
+[MontanariUnito](https://MontanariUnito.github.io/) è un sito creato dagli
 studenti dell'istituto Montanari.
 È stato creato con [Vitepress](https://vitepress.dev/).
 
@@ -13,13 +13,13 @@ pagina del sito.
 
 Per esempio:
 
-- `site/ciao.md` si troverà a `https://StudentiMontanari.github.io/ciao`
-- `site/cartella/file.md` si troverà a `https://StudentiMontanari.github.io/cartella/file`
+- `site/ciao.md` si troverà a `https://MontanariUnito.github.io/ciao`
+- `site/cartella/file.md` si troverà a `https://MontanariUnito.github.io/cartella/file`
 
 I file `index.md` rappresentano la pagina principale di una cartella:
 
-- `site/index.md` -> `https://StudentiMontanari.github.io/`
-- `site/cartella/index.md` -> `https://StudentiMontanari.github.io/cartella/`
+- `site/index.md` -> `https://MontanariUnito.github.io/`
+- `site/cartella/index.md` -> `https://MontanariUnito.github.io/cartella/`
 
 ### Linguaggio
 

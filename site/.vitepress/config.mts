@@ -2,7 +2,7 @@ import { defineConfig, UserConfig } from "vitepress";
 import { withSidebar } from "vitepress-sidebar";
 
 const vitePressOptions: UserConfig = {
-  title: "Montanari News",
+  title: "Montanari Unito",
   description: "A VitePress Site",
   lastUpdated: true,
   themeConfig: {
@@ -11,7 +11,7 @@ const vitePressOptions: UserConfig = {
     socialLinks: [
       {
         icon: "github",
-        link: "https://github.com/StudentiMontanari/StudentiMontanari.github.io",
+        link: "https://github.com/MontanariUnito/MontanariUnito.github.io",
       },
     ],
 

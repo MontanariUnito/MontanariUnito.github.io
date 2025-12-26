@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "Montanari News"
+  name: "Montanari Unito"
   text: "A VitePress Site"
   #tagline: My great project tagline
   actions:
