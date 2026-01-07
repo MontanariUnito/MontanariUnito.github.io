@@ -1,0 +1,30 @@
+/* HOMEPAGE */
+
+.VPHero .image img {
+    width: 150px;
+    border-radius: 40px;
+}
+
+@media (min-width: 640px) {
+    .VPHero .image img {
+        width: 200px;
+    }
+
+    .VPHero .heading {
+        margin-bottom: 200px !important;
+    }
+}
+
+:root {
+    --vp-c-brand-1: #fb1a46;
+    --vp-home-hero-name-background: -webkit-linear-gradient(
+        120deg,
+        #fb1a46 30%,
+        #00119f
+    );
+    --vp-home-hero-image-background-image: linear-gradient(
+        -45deg,
+        #fb1a46 50%,
+        #00119f 50%
+    );
+}
