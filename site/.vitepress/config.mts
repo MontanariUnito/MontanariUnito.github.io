@@ -13,7 +13,7 @@ const hostname: string = "https://MontanariUnito.github.io";
 
 const vitePressOptions: UserConfig = {
   title: "Montanari Unito",
-  description: "A VitePress Site",
+  description: "Sito ufficiale dai rappresentanti del Montanari",
   lastUpdated: true,
   themeConfig: {
     nav: [
