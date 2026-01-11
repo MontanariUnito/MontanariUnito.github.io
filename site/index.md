@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Montanari Unito"
   image:
-    src: /logo.jpeg
+    src: /assets/logo.jpeg
 
 features:
   - title: Montanari News
