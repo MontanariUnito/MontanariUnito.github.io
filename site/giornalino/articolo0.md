@@ -1,3 +1,3 @@
-# Articolo 0
+# I pensieri di Carlo, chi siamo?
 
 <Image src="/giornalino/articolo0.png" />
