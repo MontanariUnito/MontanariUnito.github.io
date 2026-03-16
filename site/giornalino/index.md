@@ -7,6 +7,6 @@ hero:
 
 # Articoli
 
-## [Articolo 0](articolo0)
+## [I pensieri di Carlo](articolo0)
 
-Chi siamo?
+Presentazione del giornalino studentesco.
