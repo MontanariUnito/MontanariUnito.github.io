@@ -2,5 +2,11 @@
 layout: home
 
 hero:
-  name: "Giornalino Montanari"
+  name: "I pensieri di Carlo"
 ---
+
+# Articoli
+
+## [Articolo 0](articolo0)
+
+Chi siamo?
